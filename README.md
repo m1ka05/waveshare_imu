@@ -1,5 +1,5 @@
 # waveshare_imu
-Python implementation of the I2C interface for the MPU9255 and BMP180 based IMU sensor by Waveshare
+Python + pigpio implementation of the I2C interface for the MPU9255 and BMP180 based IMU sensor by Waveshare. Tested on Raspberry Pi 3.
 
 ## resources
 https://www.waveshare.com/10-dof-imu-sensor-b.htm
